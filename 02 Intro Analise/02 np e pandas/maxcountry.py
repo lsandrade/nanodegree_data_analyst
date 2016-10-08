@@ -66,14 +66,8 @@ def max_employment(countries, employment):
     with the highest employment in the given employment
     data, and the employment in that country.
     '''
-    max_index = -1
     max_value = employment.max()
-    for i in range(len(employment)):
-        if employment[i] == max_value:
-            max_index = i
-            break
-
-
+    max_index = employment.argmax()
     max_country = countries[max_index]      # Replace this with your code
     
     return (max_country, max_value)
