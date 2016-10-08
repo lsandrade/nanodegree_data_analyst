@@ -1,21 +1,21 @@
 import unicodecsv
-import datetime
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 
-employment_above_15_file = 'employment_above_15.csv'
+employments = pd.read_csv('employment_above_15.csv')
+#print(employments['Brazil'])
 
-with open(employment_above_15_file, 'rb') as f:
-	reader = unicodecsv.DictReader(f)
-	employments = list(reader)
-    
-for employment in employments:
-	if employment['Country'] == 'Brazil':
-		Brazil = employment
-		del Brazil['Country']
+employments = employments.set_index('Country')
+Brazil = employments.loc('Brazil')
 
-#print(Brazil)
+#for employment in employments:
+#	if employment['Country'] == 'Brazil':
+#		Brazil = employment
+#		del Brazil['Country']
+
+print(Brazil)
 x = []
 y = []
 for key,value in Brazil.items():
