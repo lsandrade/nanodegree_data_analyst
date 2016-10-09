@@ -33,12 +33,6 @@ def standardize_data(values):
     (A positive number indicates a value higher than the mean, and a negative
     number indicates a value lower than the mean.)
     '''
-    mean = values.mean()
-    std = values.std()
-
-    values_minus_mean = values - mean
-    standardized = values_minus_mean / std
-
-    return standardized
+    return (values - values.mean()) / values.std()
 
 print ( standardize_data(employment))

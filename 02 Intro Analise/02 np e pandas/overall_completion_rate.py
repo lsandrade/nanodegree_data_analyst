@@ -97,8 +97,6 @@ def overall_completion_rate(female, male):
     arrays giving the female and male completion of each country in
     the same order.
     '''
-    total = female + male
-
-    return total/2
+    return (female + male)/2
 
 print(overall_completion_rate(female_completion,male_completion))
