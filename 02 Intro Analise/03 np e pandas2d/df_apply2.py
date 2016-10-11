@@ -19,6 +19,10 @@ def second_largest(df):
     Fill in this function to return the second-largest value of each 
     column of the input DataFrame.
     '''
-    return df.apply(np.sort).loc[len(df)-2]
+    return df.apply(second_largest_column)
+
+def second_largest_column(df):
+    sorted_column = df.sort_values(ascending = False)
+    return sorted_column.iloc[1]
 
 print(second_largest(df))
