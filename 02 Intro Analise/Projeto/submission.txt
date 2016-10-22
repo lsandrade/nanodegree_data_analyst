@@ -1,0 +1,15 @@
+Submissão
+O que incluir na sua submissão
+Um PDF ou HTML contendo a sua análise. Este arquivo deve conter:
+
+Uma nota especificando qual o dataset usado
+Uma definição de qual pergunta você fez
+Uma descrição do que você fez para investigar a pergunta
+Descrição de qualquer limpeza de dados feita
+Uma estatísticas resumo e gráficos comunicando o seu resultado final
+O código usado para criar suas análises. Se você usou um iPython notebook, você pode submeter o seu .ipynb. Caso não o tenha feito, encaminhe os arquivos .py.
+Uma lista de websites, livros, forums, posts de blogs, repositórios do github, etc. que você usou ou se baseou para criar a sua submissão (coloque N/A se você não usou nenhum destes recursos).
+Instruções do IPython notebook
+Se você usou IPython notebook para criar suas análises , você pode incluir o seu código diretamente no seu notebook e não há necessidade de criar outros arquivos separadamente. Você ainda precisa exportar o seu notebook em .html. Para fazer isso vá em File -> Download.As -> HTML (.html) dentro do seu IPython Notebook. Se receber um erro "No module name", abra o seu terminal e tente instalar o módulo faltante usando o comando pip install <module_name> (não inclua "<" ou ">" ou qualquer outra palavra fora o nome do módulo).
+
+Pronto para submeter o seu projeto?
