@@ -7,25 +7,27 @@ titanic_file = 'titanic_data.csv'
 titanic_data = pd.read_csv(titanic_file)
 
 
-
-def is_data_ok(data):	
-	if data['Pclass'] not in (1,2,3):
-		print("Invalid Pclass ",data['Pclass'])
-		return False
-	if data['Sex'] not in ['male','female']:
-		print("Invalid Sex ",data['Sex'])
-		return False
-	if math.isnan(data['Age']) or data['Age'] < 0 or data['Age'] > 120:
-		print("Invalid Age ",data['Age'])
-		return False
-	return True
+def is_data_ok(data):
+    """
+    From Titanic's test data, verify if chosen variables (Age, Pclass, Sex) show any problem like missing or suspicious data.
+    Return: True if everything is OK, False if found any problem and the respective value
+    """
+    if data['Pclass'] not in (1,2,3):
+        print "Invalid Pclass ",data['Pclass']
+        return False
+    if data['Sex'] not in ['male','female']:
+        print "Invalid Sex ",data['Sex']
+        return False
+    if math.isnan(data['Age']) or data['Age'] < 0 or data['Age'] > 120:
+        print "Invalid Age ",data['Age']
+        return False
+    return True
 
 result = titanic_data.apply(is_data_ok,axis=1)
 print (result.all())
 
 
 mean_ages =  titanic_data.groupby(['Sex','Pclass'])['Age'].mean()
-
 
 def fill_missing_ages(register):
 	global mean_ages
