@@ -54,12 +54,13 @@ def main():
     the structure one level at a time or copy the output to a separate output
     file.
     '''
+    """
     results = query_by_name(ARTIST_URL, query_type["simple"], "Nirvana")
-#    pretty_print(results)
+    pretty_print(results)
 
     artist_id = results["artists"][1]["id"]
-#    print ("\nARTIST:")
-#    pretty_print(results["artists"][1])
+    print ("\nARTIST:")
+    pretty_print(results["artists"][1])
 
     artist_data = query_site(ARTIST_URL, query_type["releases"], artist_id)
     releases = artist_data["releases"]
@@ -67,10 +68,20 @@ def main():
     pretty_print(releases[0], indent=2)
     release_titles = [r["title"] for r in releases]
 
-#    print ("\nALL TITLES:")
-#    for t in release_titles:
-#        print (t)
+    print ("\nALL TITLES:")
+    for t in release_titles:
+        print (t)
+    """
+    results_fak = query_by_name(ARTIST_URL, query_type["simple"], "First Aid Kit")
+    print("First Aid Kit: " ,len(results_fak))
 
+    results_queen = query_by_name(ARTIST_URL, query_type["simple"], "Queen")
+    #artist_id = results_queen["artists"][1]["id"]
+    print("Begin area name Queen: ",results_queen["artists"][1]["area"]["sort-name"])
+
+    results_beatles = query_by_name(ARTIST_URL, query_type["aliases"], "The Beatles")
+    spanish_beatles
+    pretty_print(results_beatles)
 
 if __name__ == '__main__':
     main()
