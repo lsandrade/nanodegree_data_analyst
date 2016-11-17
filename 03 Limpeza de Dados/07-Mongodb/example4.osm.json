@@ -1,0 +1,451 @@
+{
+  "id": "261114295",
+  "created": {
+    "changeset": "11129782",
+    "version": "7",
+    "timestamp": "2012-03-28T18:31:23Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9730791,
+    -87.6866303
+  ],
+  "type": "node"
+}
+{
+  "id": "261114296",
+  "created": {
+    "changeset": "8448766",
+    "version": "6",
+    "timestamp": "2011-06-15T17:04:54Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9730416,
+    -87.6878512
+  ],
+  "type": "node"
+}
+{
+  "id": "261114299",
+  "created": {
+    "changeset": "8581395",
+    "version": "5",
+    "timestamp": "2011-06-29T14:14:14Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9729565,
+    -87.6939548
+  ],
+  "type": "node"
+}
+{
+  "id": "261146436",
+  "created": {
+    "changeset": "8581395",
+    "version": "5",
+    "timestamp": "2011-06-29T14:14:14Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.970738,
+    -87.6976025
+  ],
+  "type": "node"
+}
+{
+  "id": "261147304",
+  "created": {
+    "changeset": "8581395",
+    "version": "7",
+    "timestamp": "2011-06-29T14:14:15Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9740068,
+    -87.6988576
+  ],
+  "type": "node"
+}
+{
+  "id": "261224274",
+  "created": {
+    "changeset": "8581395",
+    "version": "5",
+    "timestamp": "2011-06-29T14:14:14Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9707656,
+    -87.6938669
+  ],
+  "type": "node"
+}
+{
+  "id": "293816175",
+  "created": {
+    "changeset": "8448766",
+    "version": "47",
+    "timestamp": "2011-06-15T16:55:37Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9730154,
+    -87.6890403
+  ],
+  "type": "node"
+}
+{
+  "id": "305896090",
+  "created": {
+    "changeset": "15348240",
+    "version": "37",
+    "timestamp": "2013-03-13T07:46:29Z",
+    "user": "Umbugbene",
+    "uid": "567034"
+  },
+  "visible": "true",
+  "pos": [
+    41.9749225,
+    -87.6891198
+  ],
+  "type": "node"
+}
+{
+  "id": "317636974",
+  "created": {
+    "changeset": "15348240",
+    "version": "12",
+    "timestamp": "2013-03-13T08:02:56Z",
+    "user": "Umbugbene",
+    "uid": "567034"
+  },
+  "visible": "true",
+  "pos": [
+    41.9740292,
+    -87.701243
+  ],
+  "type": "node"
+}
+{
+  "id": "317636971",
+  "created": {
+    "changeset": "15348240",
+    "version": "13",
+    "timestamp": "2013-03-13T08:08:01Z",
+    "user": "Umbugbene",
+    "uid": "567034"
+  },
+  "visible": "true",
+  "pos": [
+    41.9740556,
+    -87.6979712
+  ],
+  "type": "node"
+}
+{
+  "id": "317637399",
+  "created": {
+    "changeset": "14927972",
+    "version": "2",
+    "timestamp": "2013-02-05T22:43:49Z",
+    "user": "Umbugbene",
+    "uid": "567034"
+  },
+  "visible": "true",
+  "pos": [
+    41.9705609,
+    -87.7012048
+  ],
+  "type": "node"
+}
+{
+  "id": "317637398",
+  "created": {
+    "changeset": "14927972",
+    "version": "2",
+    "timestamp": "2013-02-05T22:43:49Z",
+    "user": "Umbugbene",
+    "uid": "567034"
+  },
+  "visible": "true",
+  "pos": [
+    41.9706972,
+    -87.7012109
+  ],
+  "type": "node"
+}
+{
+  "id": "365214872",
+  "created": {
+    "changeset": "8448766",
+    "version": "3",
+    "timestamp": "2011-06-15T17:04:54Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.973113,
+    -87.6847998
+  ],
+  "type": "node"
+}
+{
+  "id": "261299091",
+  "created": {
+    "changeset": "8581395",
+    "version": "6",
+    "timestamp": "2011-06-29T14:14:15Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9747482,
+    -87.6988886
+  ],
+  "type": "node"
+}
+{
+  "id": "261114294",
+  "created": {
+    "changeset": "8448766",
+    "version": "6",
+    "timestamp": "2011-06-15T17:04:54Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9731219,
+    -87.6841979
+  ],
+  "type": "node"
+}
+{
+  "id": "261210804",
+  "created": {
+    "changeset": "3359748",
+    "version": "4",
+    "timestamp": "2009-12-13T00:36:09Z",
+    "user": "woodpeck_fixbot",
+    "uid": "147510"
+  },
+  "visible": "true",
+  "pos": [
+    41.9707217,
+    -87.7000019
+  ],
+  "type": "node"
+}
+{
+  "id": "261221422",
+  "created": {
+    "changeset": "8581395",
+    "version": "7",
+    "timestamp": "2011-06-29T14:14:15Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9748542,
+    -87.6922652
+  ],
+  "type": "node"
+}
+{
+  "visible": "true",
+  "id": "261221424",
+  "created": {
+    "changeset": "8581395",
+    "version": "7",
+    "timestamp": "2011-06-29T14:14:15Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "pos": [
+    41.9758794,
+    -87.6923639
+  ],
+  "highway": "traffic_signals",
+  "type": "node"
+}
+{
+  "takeaway": "yes",
+  "amenity": "restaurant",
+  "outdoor_seating": "no",
+  "id": "2406124091",
+  "pos": [
+    41.975703,
+    -87.6921867
+  ],
+  "phone": "1 (773)-271-5176",
+  "smoking": "no",
+  "visible": "true",
+  "cuisine": "mexican",
+  "address": {
+    "city": "Chicago",
+    "housenumber": "5157",
+    "postcode": "60625",
+    "street": "North Lincoln Ave"
+  },
+  "created": {
+    "changeset": "17206049",
+    "version": "2",
+    "timestamp": "2013-08-03T16:43:42Z",
+    "user": "linuxUser16",
+    "uid": "1219059"
+  },
+  "name": "La Cabana De Don Luis",
+  "type": "node"
+}
+{
+  "source": "GPS",
+  "visible": "true",
+  "shop": "doityourself",
+  "pos": [
+    41.9705219,
+    -87.6900344
+  ],
+  "address": {
+    "housenumber": "4874",
+    "postcode": "60625",
+    "street": "N. Lincoln Ave",
+    "state": "Illinois",
+    "city": "Chicago",
+    "country": "US"
+  },
+  "id": "2636084635",
+  "created": {
+    "changeset": "20187349",
+    "version": "1",
+    "timestamp": "2014-01-25T01:56:10Z",
+    "user": "linuxUser16",
+    "uid": "1219059"
+  },
+  "type": "node",
+  "phone": "(773)-654-1347",
+  "name": "Matty Ks"
+}
+{
+  "id": "261198953",
+  "created": {
+    "changeset": "8581395",
+    "version": "6",
+    "timestamp": "2011-06-29T14:14:13Z",
+    "user": "bbmiller",
+    "uid": "451048"
+  },
+  "visible": "true",
+  "pos": [
+    41.9707413,
+    -87.6963097
+  ],
+  "type": "node"
+}
+{
+  "id": "757860928",
+  "visible": "true",
+  "amenity": "fast_food",
+  "cuisine": "sausage",
+  "pos": [
+    41.9747374,
+    -87.6920102
+  ],
+  "created": {
+    "changeset": "5288876",
+    "version": "2",
+    "timestamp": "2010-07-22T16:16:51Z",
+    "user": "uboot",
+    "uid": "26299"
+  },
+  "type": "node",
+  "name": "Shelly's Tasty Freeze"
+}
+{
+  "node_refs": [
+    "2636086179",
+    "2636086178",
+    "2636086177",
+    "2636086176"
+  ],
+  "visible": "true",
+  "id": "258219703",
+  "created": {
+    "changeset": "20187382",
+    "version": "1",
+    "timestamp": "2014-01-25T02:01:54Z",
+    "user": "linuxUser16",
+    "uid": "1219059"
+  },
+  "highway": "service",
+  "type": "way"
+}
+{
+  "pos": [
+    42.1251718,
+    -88.0780576
+  ],
+  "amenity": "townhall",
+  "address": {
+    "housenumber": "1400",
+    "postcode": "60067",
+    "housename": "Village Hall",
+    "street": "Baldwin Rd."
+  },
+  "id": "1683602133",
+  "created": {
+    "changeset": "11043902",
+    "version": "2",
+    "timestamp": "2012-03-20T18:56:44Z",
+    "user": "Jacobs Studios",
+    "uid": "634589"
+  },
+  "type": "node",
+  "name": "Village Hall"
+}
+{
+  "node_refs": [
+    "2199822281",
+    "2199822390",
+    "2199822392",
+    "2199822369",
+    "2199822370",
+    "2199822284",
+    "2199822281"
+  ],
+  "visible": "true",
+  "building": "yes",
+  "address": {
+    "housenumber": "1412",
+    "street": "West Lexington St."
+  },
+  "id": "209809850",
+  "created": {
+    "changeset": "15353317",
+    "version": "1",
+    "timestamp": "2013-03-13T15:58:04Z",
+    "user": "chicago-buildings",
+    "uid": "674454"
+  },
+  "chicago:building_id": "366409",
+  "building:levels": "1",
+  "type": "way"
+}

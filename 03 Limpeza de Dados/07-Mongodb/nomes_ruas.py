@@ -57,7 +57,6 @@ def audit(osmfile):
 def update_name(name, mapping):
     name = name.split(" ")
     name[len(name)-1] = mapping[name[len(name)-1]]
-#    print("***"+mapping[name[len(name)-1]]+"***"+name[len(name)-1])
     name = " ".join(str(x) for x in name)
 
     return name
